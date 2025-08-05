@@ -19,3 +19,4 @@ description = "This is the third bucket name"
 default = "my-tf-test-bucket-oso2"
 }
 
+///terraform is hard
